@@ -15,8 +15,8 @@ on:
     
 env:
   ROM_URL: http://47.107.93.66:8888/down/VFveRdJCWJzm.zip
-  ROM_NAME: Generic
-  BUILD_TYPE: Aonly
+  ROM_NAME: Pixel
+  BUILD_TYPE: AB
   TZ: Asia/Shanghai
 
 jobs:
