@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://47.107.93.66:8888/down/VFveRdJCWJzm.zip
+  ROM_URL: https://59-47-237-138.pd1.123pan.cn:30443/download-cdn.123pan.cn/123-748/ce75ee0f/1811629524-0/ce75ee0ffbec51b322f3eaedb9c9eeec/c-m8?v=5&t=1716995025&s=1716995025cba73fd0699fe52ac7fc33d1c26e3404&r=GOB8BC&bzc=2&bzs=313831313632393532343a37303539353132383a3838393037363137313a31383334363033313138&filename=crDroidAndroid-11.0-20210111-sirius-v7.2.zip&x-mf-biz-cid=226ebc8a-af22-409f-9604-f2ce57c2cf95-6eaa77&auto_redirect=0&ndcp=1&cache_type=1&xmfcid=c972a58d-e2d3-4f88-9605-d1fc5087973c-0-50111d3b1
   ROM_NAME: Generic
   BUILD_TYPE: AB
   TZ: Asia/Shanghai
